@@ -18,7 +18,7 @@ char *_getline(void)
 		exit(0);
 	}
 	return (line);
-
+}
 /**
  * split_line - Splits line into args
  * @line: Line of user input
