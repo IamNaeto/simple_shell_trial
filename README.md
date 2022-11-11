@@ -8,7 +8,7 @@
    | |__| | (_| | ||  __/\__ \ | (_) | |    ____) | | | |  __/ | |
     \_____|\__,_|\__\___||___/  \___/|_|   |_____/|_| |_|\___|_|_|
 ```
-
+![image](https://user-images.githubusercontent.com/105589308/201345810-e5b660eb-873b-47c0-a7ab-90b649007c3c.png)
 <details>
 <summary>The Gates of Shell by Spencer Cheng, featuring Julien Barbier</summary>
 <img src="https://user-images.githubusercontent.com/29776892/129798799-6f730688-8728-49ed-b01b-13bec0fa2896.jpeg">
